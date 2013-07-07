@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[delegate :${1:column}, :to => :${2:table}${3:, :prefix => ${4:true/prefix_name}}]]></content>
+    <tabTrigger>dele</tabTrigger>
+    <scope>source.ruby.rails</scope>
+    <description>delegate</description>
+</snippet>
